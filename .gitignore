@@ -1,0 +1,9 @@
+# Computer Generated
+.DS_Store
+.ipynb_checkpoints/
+
+# Local Folders
+old/
+checkpoints/
+2019-bike-share/
+Neighbourhoods.geojson
